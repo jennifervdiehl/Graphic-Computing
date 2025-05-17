@@ -2,26 +2,28 @@
 
 ## Gallery of homeworks 🎨 👩🏻‍💻 📚 
 
-- Challenge 1 (1st Module)
-    - Triangule
+<details>
+<summary>Challenge 1 (1st Module)</summary>
+    - 3D Triangle
+</details>
 
-- Challenge 2 (2nd Module)
+<details>
+<summary>Challenge 2 (2nd Module)</summary>
     - Normal cube
     - Double cube
+</details>
 
-- Challenge 3 (3rd Module)
+<details>
+<summary>Challenge 3 (3rd Module)</summary>
     - Suzanne
+</details>
 
-- Challenge 4 (4th Module)
+<details>
+<summary>Challenge 4 (4th Module)</summary>
     - Moon
+</details>
 
-- Challenge 5 (On-site activity - 2nd Module)
-    - Cubes (OBJ reader and increasing operations)
-
-- Challenge 6 (5th Module)
-    - Camera
-
-- ...
-
-
-
+<details>
+<summary>Challenge 5 (On-site activity - 2nd Module)</summary>
+     - Cubes (OBJ reader and increasing operations)
+</details>
