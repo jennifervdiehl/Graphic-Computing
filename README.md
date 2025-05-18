@@ -27,3 +27,5 @@
 <summary>Challenge 5 (On-site activity - 2nd Module)</summary>
      - Cubes (OBJ reader and increasing operations)
 </details>
+
+![Alt Text](https://github.com/jennifervdiehl/Graphic-Computing/blob/main/gallery_1stgrid.gif)
